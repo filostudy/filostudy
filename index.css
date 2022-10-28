@@ -1,0 +1,30 @@
+body {
+    background-color: #f0f0f0;
+    font-family: "Arial", sans-serif;
+    font-size: 12pt;
+    color: #000000;
+}
+h1 {
+    font-size: 24pt;
+    color: #0000ff;
+}
+h2 {
+    font-size: 18pt;
+    color: #0000ff;
+}
+h3 {
+    font-size: 14pt;
+    color: #0000ff;
+}
+a {
+    color: #0000ff;
+}
+a:hover {
+    color: #ff0000;
+}
+a:visited {
+    color: #0000ff;
+}
+a:active {
+    color: #ff0000;
+}
