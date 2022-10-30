@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-	width: 960px;
+	width: auto;
 	margin: 0 auto;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 .footer {
-	background-color: #f5f5f5;
+	background-color: #eee;
 	padding: 20px;
 	border-top: 1px solid #e5e5e5;
 }
