@@ -35,8 +35,8 @@ body {
 }
 #rcorners4 {
   border-radius: 15px;
-  background: #73AD21;
+  background: #b4ab9c;
   padding: 20px; 
-  width: 500px;
+  width: auto;
   height: 150px; 
 } 
