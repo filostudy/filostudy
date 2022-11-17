@@ -1,0 +1,49 @@
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+	background-color: #ccc;
+}
+
+.container {
+	width: auto;
+	margin: 0 auto;
+}
+
+.header {
+	background-color: #eee;
+	padding: 20px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.content {
+	padding: 20px;
+}
+
+.footer {
+	background-color: #eee;
+	padding: 20px;
+	border-top: 1px solid #e5e5e5;
+}
+
+.recommendation {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #333;
+}
+#rcorners4 {
+  border-radius: 15px;
+  background: #B4AB9C;
+  padding: 20px;
+  width: 500px;
+  height: auto; 
+} 
+#rcornersclog {
+  border-radius: 15px;
+  background: #fff;
+  padding: 20px;
+  width: 500px;
+  height: auto; 
+} 
