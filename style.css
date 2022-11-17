@@ -40,3 +40,10 @@ body {
   width: 500px;
   height: auto; 
 } 
+#rcornersclog {
+  border-radius: 15px;
+  background: #fff;
+  padding: 20px;
+  width: 500px;
+  height: auto; 
+} 
