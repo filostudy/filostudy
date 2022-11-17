@@ -47,3 +47,7 @@ body {
   width: 500px;
   height: auto; 
 } 
+
+p.big {
+  font-size: 50px;
+}
