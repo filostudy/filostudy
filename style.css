@@ -51,9 +51,11 @@ body {
 p.big {
   font-size: 50px;
 }
-code {padding:2px 4px;
-font-size:90%;color:#c7254e;
+code.bg {
+padding:2px 4px;
+font-size:90%;
+color:#c7254e;
 background-color:#f9f2f4;
 border-radius:4px;
-font-family:Menlo,Monaco,Consolas,"Courier New",monospace
+font-family:Menlo,Monaco,Consolas,"Courier New",monospace;
 }
